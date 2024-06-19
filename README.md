@@ -4,5 +4,5 @@ DynamixResources: A collection of stuff I found very useful during my tenure as 
 
 Mathingies: A collection of anything I find interesting in math, which will probably include nice integrals or other nice questions. <br><br>
 
-Oppurtunities: A list of things to look out for 
+Oppurtunities: A list of things to look out for.
 
