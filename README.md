@@ -6,3 +6,4 @@ Mathingies: A collection of anything I find interesting in math, which will prob
 
 Oppurtunities: A list of things to look out for.
 
+Resonance: A collection of articles from the journal that I've read
