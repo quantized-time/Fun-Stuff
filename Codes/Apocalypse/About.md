@@ -1,0 +1,1 @@
+Population divided into three compartments: Humans, Zombies and Military. The code illustrates phase transitions that answers questions like, "What is the minimum number of soldiers required initially so that humanity may survive?"
